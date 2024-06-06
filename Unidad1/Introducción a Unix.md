@@ -1,3 +1,7 @@
 # Introducción a Unix
 
-## Terminal y consola
+## 1.1 Terminal y consola
+
+Al abrir una consola de linux se verá algo así
+
+## 1.2 
