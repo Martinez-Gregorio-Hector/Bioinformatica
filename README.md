@@ -1,3 +1,6 @@
-# Bioinformática
+# Curso de bioinformática
 
-Este es el repositorio de apuntes y código que se usará para el curso del laboratorio 13 impartido por el Dr. Héctor Martínez Gregorio, los materiales que se presentan son de acceso libre.
+Este es un repositorio para el curso de Linux
+
+Los materiales que se presentan en este curso es de acceso libre
+
